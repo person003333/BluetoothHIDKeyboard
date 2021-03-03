@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">BleKeyboard</string>
+    <string name="devices_label">Connect to:</string>
+    <string name="status_label">Status:</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="status_connecting">Connecting…</string>
+    <string name="status_connected">Connected</string>
+    <string name="status_disconnecting">Disconnecting…</string>
+    <string name="cross">cross</string>
+    <string name="circle">circle</string>
+    <string name="triangle">triangle</string>
+    <string name="square">square</string>
+    <string name="ddd">ddd</string>
+
+
+
+    <string name="q1">qㅂ</string>
+    <string name="q2">ㅂ</string>
+    <string name="w1">wㅈ</string>
+    <string name="w2">ㅈ</string>
+    <string name="e1">eㄷ</string>
+    <string name="e2">ㄷ</string>
+    <string name="r1">rㄱ</string>
+    <string name="r2">ㄱ</string>
+    <string name="t1">tㅅ</string>
+    <string name="t2">ㅅ</string>
+    <string name="y1">yㅛ</string>
+    <string name="y2">ㅛ</string>
+    <string name="u1">uㅕ</string>
+    <string name="u2">ㅕ</string>
+    <string name="i1">iㅑ</string>
+    <string name="i2">ㅑ</string>
+    <string name="o1">oㅐ</string>
+    <string name="o2">ㅐ</string>
+    <string name="p1">pㅔ</string>
+    <string name="p2">ㅔ</string>
+    <string name="con_s">[{</string>
+    <string name="con_e">]}</string>
+
+    <string name="a1">aㅁ</string>
+    <string name="a2">ㅁ</string>
+    <string name="s1">sㄴ</string>
+    <string name="s2">ㄴ</string>
+    <string name="d1">dㅇ</string>
+    <string name="d2">ㅇ</string>
+    <string name="f1">fㄹ</string>
+    <string name="f2">ㄹ</string>
+    <string name="g1">gㅎ</string>
+    <string name="g2">ㅎ</string>
+    <string name="h1">hㅗ</string>
+    <string name="h2">ㅗ</string>
+    <string name="j1">jㅓ</string>
+    <string name="j2">ㅓ</string>
+    <string name="k1">kㅏ</string>
+    <string name="k2">ㅏ</string>
+    <string name="l1">lㅣ</string>
+    <string name="l2">ㅣ</string>
+    <string name="colone">;</string>
+    <string name="press">\'</string>
+
+    <string name="z1">zㅋ</string>
+    <string name="z2">ㅋ</string>
+    <string name="x1">xㅌ</string>
+    <string name="x2">ㅌ</string>
+    <string name="c1">cㅊ</string>
+    <string name="c2">ㅊ</string>
+    <string name="v1">vㅍ</string>
+    <string name="v2">ㅍ</string>
+    <string name="b1">bㅠ</string>
+    <string name="b2">ㅠ</string>
+    <string name="n1">nㅜ</string>
+    <string name="n2">ㅜ</string>
+    <string name="m1">mㅡ</string>
+    <string name="m2">ㅡ</string>
+    <string name="dot1">,</string>
+    <string name="dot2">.</string>
+    <string name="slash">/</string>
+
+    <string name="num1">1</string>
+    <string name="num2">2</string>
+    <string name="num3">3</string>
+    <string name="num4">4</string>
+    <string name="num5">5</string>
+    <string name="num6">6</string>
+    <string name="num7">7</string>
+    <string name="num8">8</string>
+    <string name="num9">9</string>
+    <string name="num0">0</string>
+
+    <string name ="bar">-</string>
+    <string name ="ecall">=</string>
+    <string name ="unslash">\\</string>
+
+    <string name ="art">art</string>
+    <string name ="ctrl">ctrl</string>
+    <string name ="shift">shift</string>
+    <string name ="enter">enter</string>
+    <string name ="back">back</string>
+    <string name ="han">한/영</string>
+    <string name ="tap">tap</string>
+
+
+
+
+    <item type="id" name="tag_pressed" />
+    <item type="id" name="tag_x_pos" />
+    <item type="id" name="tag_y_pos" />
+</resources>
